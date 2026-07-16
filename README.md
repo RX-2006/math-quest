@@ -25,6 +25,9 @@
 - [License](#-license)
 
 ---
+<p align ="center">
+<img src="maths quest dashboard.png" height=500px>
+</p>
 
 ## 🎯 Overview
 
