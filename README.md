@@ -31,7 +31,7 @@
 
 ## 🎯 Overview
 
-**Math Quest** is a single-player educational game designed to teach fundamental arithmetic concepts — Addition, Subtraction, Multiplication, and Division — through an immersive, game-based learning experience.
+**Math Quest** is a single-player educational game designed to teach fundamental arithmetic concepts - Addition, Subtraction, Multiplication, and Division - through an immersive, game-based learning experience.
 
 Built entirely with vanilla **HTML5, CSS3, and JavaScript**, the application requires no external dependencies, build tools, or server setup. Simply open the file in any modern web browser and start playing!
 
@@ -204,7 +204,7 @@ math-quest/
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — feel free to use, modify, and distribute.
+This project is licensed under the **MIT License** - feel free to use, modify, and distribute.
 
 ```
 MIT License
